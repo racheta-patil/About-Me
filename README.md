@@ -42,3 +42,5 @@ Worked on basic cybersecurity tasks, vulnerability analysis, and networking exer
 - Develop full-stack web applications
 - Contribute to real-world technical projects
 - Continue learning advanced security technologies
+
+## LinkedIn : https://www.linkedin.com/in/racheta-v-p-90947a411/
